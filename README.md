@@ -1,6 +1,6 @@
 # dotenv
 
-Loads environment variables from `.env` file.
+Loads environment variables from `.env` file. Inspired by [dotenv](https://github.com/motdotla/dotenv).
 
 ## Example
 
